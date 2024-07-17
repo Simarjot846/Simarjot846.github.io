@@ -7,7 +7,6 @@ I'm currently a first-year student at Guru nanak dev enginnering college studyin
 - **Currently Learning:** HTML, CSS
 - **Interested In:** Web Development, App Development, Data Science
 ## Certifications
-## Certifications
 
 ![My Certification](https://github.com/username/repository/blob/main/certifications/https://coursera.org/share/24b1cb5595c30723b47266ab3a88473c)
 
