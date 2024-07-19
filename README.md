@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Simarjot Kaur</h1>
-<h3 align="center">A passionate engineer from india"</h3>
+<h3 align="center">"A passionate engineer from india"</h3>
 
 <img align="right" alt="coding" width="400" src=https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif>
 
@@ -63,8 +63,6 @@ The induction programme was a remarkable start to our journey, thanks to the inv
 
 We look forward to applying these lessons as we continue our educational and professional development. Stay tuned for more updates and insights from Simar's blog!
 
----
-Feel free to share your thoughts and experiences in the comments below. We’d love to hear how you’ve been applying these skills in your own journey.
 ---
 
 Thank you for being a part of Simar's Blog!
