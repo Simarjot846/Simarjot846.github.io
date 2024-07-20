@@ -22,6 +22,10 @@
             <h3>Certification in React basics</h3>
             <img width="500" src="https://coursera-certificate-images.s3.amazonaws.com/LMCWX5S9TGWM">
         </div>
+        <div class="certification">
+             <h2>Certification in Excel Beginners</h2>
+             <img width="500" src="https://dtmvamahs40ux.cloudfront.net/ComplementaryCourseCertificate/5038616/original/Simarjot_kaur20240719-73-duofen.jpg" id="certificateImage" alt="Excel for Beginners">
+        </div>
     </section>
 
 <h2 align="left">#BLOGS</h2>
