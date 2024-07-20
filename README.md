@@ -52,8 +52,8 @@ In addition to soft skills, the importance of hard skills was highlighted. Our g
 
 ### Engaging Experiments
 
-One of the most exciting parts of the session was the Science experiments conducted by the Jaswinder singh. These experiments were designed to illustrate the concepts discussed in a tangible and memorable way. Fo
- **Surface Tension**: We observed the phenomenon of surface tension through a simple experiment with water and a paper clip. It was fascinating to see how the paper clip floated on the water surface due to the cohesive forces between water molecules.
+One of the most exciting parts of the session was the Science experiments conducted by the Jaswinder singh. These experiments were designed to illustrate the concepts discussed in a tangible and memorable way.
+ **Surface Tension**: We observed the phenomenon of surface tension through a simple experiment with water and a strainer. It was fascinating to see how the water  is not leaking from the strainer surface due to the cohesive forces between water molecules.
 
 - **Rain Alarm**: The speaker demonstrated a rain alarm using basic electronic components. This practical experiment showed us how to create a simple circuit that can detect rain and trigger an alarm, highlighting the importance of practical knowledge in electronics.
 
